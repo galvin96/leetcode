@@ -53,7 +53,7 @@ func (list *ListNode) List() {
 	}
 }
 
-func linkedList() {
+func main() {
 	l1 := ListNode{
 		Val: 9,
 	}
