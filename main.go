@@ -1,12 +1,9 @@
 package main
 
-func letterCombinations(digits string) []string {
+func isValid(s string) bool {
 
 }
 
 func main() {
-	letterCombinations("")
-	letterCombinations("2")
-	letterCombinations("234")
-	letterCombinations("23")
+
 }
